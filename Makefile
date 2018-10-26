@@ -20,9 +20,18 @@ $(ms):
 
 ######################################################################
 
-linkdirs += disease_model_talks
+screen_session: 
+
+######################################################################
+
+linkdirs += disease_model_talks Generation_talks statistics_talks
+
+Ignore += $(linkdirs)
 $(linkdirs): %: ../%
 	$(LN) $< .
+
+../%:
+	$(makethere)
 
 alldirs += $(linkdirs)
 
