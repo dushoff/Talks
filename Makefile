@@ -8,10 +8,6 @@ Sources += Makefile README.md
 
 ######################################################################
 
--include $(ms)/os.mk
-# -include $(ms)/perl.def
--include $(ms)/repos/dushoff_repos.def
-
 msrepo = https://github.com/dushoff
 ms = makestuff
 Ignore += $(ms)
@@ -19,15 +15,21 @@ Makefile: $(ms) $(ms)/Makefile
 $(ms):
 	git clone $(msrepo)/$(ms)
 
+-include $(ms)/os.mk
+# -include $(ms)/perl.def
+
 ######################################################################
 
-## <C-F5>clonedirs += disease_model_talks
+linkdirs += disease_model_talks
+$(linkdirs): %: ../%
+	$(LN) $< .
+
+alldirs += $(linkdirs)
 
 ######################################################################
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
--include $(ms)/repos/dushoff_repos.mk
 
 # -include $(ms)/wrapR.mk
 
