@@ -20,8 +20,6 @@ $(ms):
 
 ######################################################################
 
-screen_session: 
-
 ######################################################################
 
 linkdirs += disease_model_talks Generation_talks statistics_talks
@@ -34,6 +32,12 @@ $(linkdirs): %: ../%
 	$(makethere)
 
 alldirs += $(linkdirs)
+
+screen_session: disease_model_talks.screen Generation_talks.screen statistics_talks.screen
+
+%.screen: %
+	cd $< && screen -t "$<"
+
 
 ######################################################################
 
