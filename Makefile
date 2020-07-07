@@ -1,46 +1,40 @@
-# talks
-### Hooks for the editor to set the default target
+## This is the screendir Talks
 
 current: target
 -include target.mk
 
-Sources += Makefile README.md
+-include makestuff/perl.def
 
 ######################################################################
 
+vim_session: 
+	bash -cl "vmt screens.list"
+	
+screen_session: screens.update
+	$(MAKE) $(vscreens)
+
+######################################################################
+
+### Makestuff
+
+Sources += Makefile
+
+Ignore += makestuff
 msrepo = https://github.com/dushoff
-ms = makestuff
-Ignore += $(ms)
-Makefile: $(ms) $(ms)/Makefile
-$(ms):
-	git clone $(msrepo)/$(ms)
+Makefile: makestuff/Makefile
+makestuff/Makefile:
+	git clone $(msrepo)/makestuff
+	ls $@
 
--include $(ms)/os.mk
-# -include $(ms)/perl.def
+### Includes
 
-######################################################################
+-include makestuff/os.mk
 
-linkdirs += disease_model_talks Generation_talks statistics_talks
+## -include makestuff/wrapR.mk
 
-Ignore += $(linkdirs)
-$(linkdirs): %: ../%
-	$(LN) $< .
+-include makestuff/listdir.mk
+-include makestuff/screendir.mk
+-include makestuff/mkfiles.mk
 
-../%:
-	$(makethere)
-
-alldirs += $(linkdirs)
-
-screen_session: disease_model_talks.screen Generation_talks.screen statistics_talks.screen
-
-%.screen: %
-	cd $< && screen -t "$<"
-
-
-######################################################################
-
--include $(ms)/git.mk
--include $(ms)/visual.mk
-
-# -include $(ms)/wrapR.mk
-
+-include makestuff/git.mk
+-include makestuff/visual.mk
