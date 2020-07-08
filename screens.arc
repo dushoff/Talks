@@ -8,6 +8,7 @@ XX. math:  https://github.com/dushoff/math_talks.git ../Workshops/math
 SIR_simulations: ../Workshops/SIR_simulations
 ss_pix: ../Workshops/ss_pix
 Generation_distributions: ../Workshops/Generation_distributions
+SIR_model_family: ../Workshops/SIR_model_family
 
 ----------------------------------------------------------------------
 all.time
@@ -27,7 +28,6 @@ makestuff@
 math_talks/
 notes.md
 rhdir/
-SIR_model_family/
 target.mk
 trace/
 up.time
