@@ -9,26 +9,17 @@ SIR_simulations: ../Workshops/SIR_simulations
 ss_pix: ../Workshops/ss_pix
 Generation_distributions: ../Workshops/Generation_distributions
 SIR_model_family: ../Workshops/SIR_model_family
+WA_Ebola_Outbreak/: ../Workshops/WA_Ebola_Outbreak/
 
 ----------------------------------------------------------------------
-all.time
+
 Birth_death_models/
-commit.time
 coronaFrame@
 coronaSpread@
-dirnames.mk
 Disease_data/
 Endemic_curves/
 Exponential_figures/
 LatexTemplates/
 link_calculations/
-Makefile
-make.log
 makestuff@
-math_talks/
-notes.md
-rhdir/
-target.mk
 trace/
-up.time
-WA_Ebola_Outbreak/
