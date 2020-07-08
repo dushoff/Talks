@@ -6,5 +6,6 @@ XX. math:  https://github.com/dushoff/math_talks.git ../Workshops/math
 
 ## Service directories; don't automatically screen (but not resting)
 SIR_simulations: ../Workshops/SIR_simulations
+ss_pix: ../Workshops/ss_pix
 
 ----------------------------------------------------------------------
