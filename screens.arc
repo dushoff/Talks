@@ -10,6 +10,7 @@ ss_pix: ../Workshops/ss_pix
 Generation_distributions: ../Workshops/Generation_distributions
 SIR_model_family: ../Workshops/SIR_model_family
 WA_Ebola_Outbreak: ../Workshops/WA_Ebola_Outbreak/
+trace: ../Workshops/trace/
 
 ----------------------------------------------------------------------
 
@@ -22,4 +23,3 @@ Exponential_figures/
 LatexTemplates/
 link_calculations/
 makestuff@
-trace/
