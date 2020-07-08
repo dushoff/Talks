@@ -4,8 +4,7 @@ XX. generations:  https://github.com/dushoff/Generation_talks.git ../Workshops/g
 XX. stats:  https://github.com/dushoff/statistics_talks.git ../Workshops/stats
 XX. math:  https://github.com/dushoff/math_talks.git ../Workshops/math
 
+## Service directories; don't automatically screen (but not resting)
+SIR_simulations: ../Workshops/SIR_simulations
+
 ----------------------------------------------------------------------
-
-## Things below here should be alled but not screened
-
-XX. SIR_simulations: ../Workshops/SIR_simulations
