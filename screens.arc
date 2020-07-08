@@ -9,7 +9,7 @@ SIR_simulations: ../Workshops/SIR_simulations
 ss_pix: ../Workshops/ss_pix
 Generation_distributions: ../Workshops/Generation_distributions
 SIR_model_family: ../Workshops/SIR_model_family
-WA_Ebola_Outbreak/: ../Workshops/WA_Ebola_Outbreak/
+WA_Ebola_Outbreak: ../Workshops/WA_Ebola_Outbreak/
 
 ----------------------------------------------------------------------
 
