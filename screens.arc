@@ -15,7 +15,6 @@ trace: ../Workshops/trace/
 ----------------------------------------------------------------------
 
 Birth_death_models/
-coronaFrame@
 coronaSpread@
 Disease_data/
 Endemic_curves/
