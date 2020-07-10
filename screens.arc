@@ -15,6 +15,8 @@ SIR_model_family: ../Workshops/SIR_model_family
 WA_Ebola_Outbreak: ../Workshops/WA_Ebola_Outbreak/
 trace: ../Workshops/trace/
 
+TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
+
 ----------------------------------------------------------------------
 
 Birth_death_models/
