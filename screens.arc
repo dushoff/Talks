@@ -17,11 +17,12 @@ trace: ../Workshops/trace/
 
 TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
 
+Disease_data: ../Workshops/Disease_data
+
 ----------------------------------------------------------------------
 
 Birth_death_models/
 coronaSpread@
-Disease_data/
 Endemic_curves/
 Exponential_figures/
 LatexTemplates/
