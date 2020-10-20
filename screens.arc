@@ -16,6 +16,7 @@ WA_Ebola_Outbreak: ../Workshops/WA_Ebola_Outbreak/
 trace: ../Workshops/trace/
 Exponential_figures: ../Workshops/Exponential_figures
 Birth_death_models: ../Workshops/Birth_death_models
+Endemic_curves: ../Workshops/Endemic_curves
 
 TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
 
@@ -24,7 +25,6 @@ Disease_data: ../Workshops/Disease_data
 ----------------------------------------------------------------------
 
 coronaSpread@
-Endemic_curves/
 LatexTemplates/
 link_calculations/
 makestuff@
