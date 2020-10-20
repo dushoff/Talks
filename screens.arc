@@ -14,7 +14,7 @@ Generation_distributions: ../Workshops/Generation_distributions
 SIR_model_family: ../Workshops/SIR_model_family
 WA_Ebola_Outbreak: ../Workshops/WA_Ebola_Outbreak/
 trace: ../Workshops/trace/
-Exponential_figures/: ../Workshops/Exponential_figures
+Exponential_figures: ../Workshops/Exponential_figures
 
 TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
 
