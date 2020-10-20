@@ -22,9 +22,11 @@ TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
 
 Disease_data: ../Workshops/Disease_data
 
+LatexTemplates: ../Workshops/LatexTemplates
+
+link_calculations: ../Workshops/link_calculations
+
 ----------------------------------------------------------------------
 
 coronaSpread@
-LatexTemplates/
-link_calculations/
 makestuff@
