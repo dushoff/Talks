@@ -18,15 +18,13 @@ Exponential_figures: ../Workshops/Exponential_figures
 Birth_death_models: ../Workshops/Birth_death_models
 Endemic_curves: ../Workshops/Endemic_curves
 
+## Filling in weird orphans 2021 Jun 16 (Wed)
+## WATCH out! Are we competing with Generation_talks Makefile?
+coronaFrame: ../research/exponential_framework
+coronaSpread: ../outbreak/corona
+
+## Newly built
 TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
-
 Disease_data: ../Workshops/Disease_data
-
 LatexTemplates: ../Workshops/LatexTemplates
-
 link_calculations: ../Workshops/link_calculations
-
-----------------------------------------------------------------------
-
-coronaSpread@
-makestuff@
