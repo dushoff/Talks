@@ -5,7 +5,7 @@ XX. generations:  https://github.com/dushoff/Generation_talks.git ../Workshops/g
 
 XX. stats:  https://github.com/dushoff/statistics_talks.git ../Workshops/stats
 
-XX. math:  https://github.com/dushoff/math_talks.git ../Workshops/math
+XX. math:  https://github.com/dushoff/math_talks.git ../../gitroot/Workshops/math
 
 ## Service directories; don't automatically screen (but not resting)
 SIR_simulations: ../Workshops/SIR_simulations
@@ -26,5 +26,5 @@ coronaSpread: ../outbreak/corona
 ## Newly built
 TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
 Disease_data: ../Workshops/Disease_data
-XX. LatexTemplates: ../Workshops/LatexTemplates
+XX. LatexTemplates:  https://github.com/ICI3D/LatexTemplates.git ../Workshops/LatexTemplates
 link_calculations: ../Workshops/link_calculations
