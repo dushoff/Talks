@@ -5,7 +5,7 @@ XX. generations:  https://github.com/dushoff/Generation_talks.git ../Workshops/g
 
 XX. stats:  https://github.com/dushoff/statistics_talks.git ../Workshops/stats
 
-XX. math:  https://github.com/dushoff/math_talks.git ../Workshops/math
+XX. math:  https://github.com/dushoff/math_talks.git ../../gitroot/Workshops/math
 
 ## Service directories; don't automatically screen (but not resting)
 SIR_simulations:  https://github.com/dushoff/SIR_simulations.git ../Workshops/SIR_simulations
