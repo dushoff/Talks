@@ -17,6 +17,7 @@ screen_session: screens.update
 
 ## Special directories
 
+Ignore += effectPlots
 effectPlots: | effects
 	ln -s effects/manuscript $@
 
