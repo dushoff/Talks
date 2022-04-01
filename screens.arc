@@ -17,6 +17,7 @@ XX. trace:  https://github.com/parksw3/contact_trace.git ../Workshops/trace/
 Exponential_figures:  https://github.com/Bio3SS/Exponential_figures.git ../Workshops/Exponential_figures
 Birth_death_models:  https://github.com/Bio3SS/Birth_death_models.git ../Workshops/Birth_death_models
 Endemic_curves:  https://github.com/dushoff/Endemic_curves.git ../Workshops/Endemic_curves
+effects: https://github.com/mac-theobio/effects.git
 
 ## Filling in weird orphans 2021 Jun 16 (Wed)
 ## WATCH out! Are we competing with Generation_talks Makefile?

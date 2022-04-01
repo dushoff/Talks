@@ -15,6 +15,13 @@ screen_session: screens.update
 
 ######################################################################
 
+## Special directories
+
+effectPlots: | effects
+	ln -s effects/manuscript $@
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile README.md
