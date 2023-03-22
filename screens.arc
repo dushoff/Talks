@@ -12,7 +12,7 @@ XX. stats:  https://github.com/dushoff/statistics_talks.git ../Workshops/stats
 XX. math:  https://github.com/dushoff/math_talks.git ../../gitroot/Workshops/math
 
 ## Service directories; don't automatically screen (but not resting). Do they all or not??
-SIR_simulations:  https://github.com/dushoff/SIR_simulations.git ../Workshops/SIR_simulations
+SIR_simulations:  https://github.com/dushoff/SIR_simulations
 ss_pix:  https://github.com/dushoff/ss_pix.git ../Workshops/ss_pix
 Generation_distributions:  https://github.com/dushoff/Generation_distributions.git ../Workshops/Generation_distributions
 SIR_model_family:  https://github.com/dushoff/SIR_model_family.git ../Workshops/SIR_model_family
