@@ -27,9 +27,12 @@ effects: https://github.com/mac-theobio/effects.git
 XX. LatexTemplates:  https://github.com/ICI3D/LatexTemplates.git ../Workshops/LatexTemplates
 
 ## Filling in weird orphans 2021 Jun 16 (Wed)
-## WATCH out! Are we competing with Generation_talks Makefile?
-coronaFrame: ../research/exponential_framework
-coronaSpread: ../outbreak/corona
+## See Generation_talks Makefile?
+## coronaFrame: ../research/exponential_framework
+
+coronaFrame: https://github.com/parksw3/wuhan.git
+coronaSpread: https://github.com/wzmli/corona
+
 link_calculations: https://github.com/dushoff/link_calculations.git 
 
 ## Newly built
