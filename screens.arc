@@ -19,7 +19,7 @@ WA_Ebola_Outbreak:  https://github.com/Outbreak-analysis/WA_Ebola_Outbreak.git .
 trace:  https://github.com/parksw3/contact_trace.git ../Workshops/trace/
 
 ## Banff: look at box approaches from Jonathan and Daniel
-XX. newBoxes:
+XX. newBoxes: https://github.com/dushoff/newBoxes
 
 Exponential_figures:  https://github.com/Bio3SS/Exponential_figures.git ../Workshops/Exponential_figures
 Birth_death_models:  https://github.com/Bio3SS/Birth_death_models.git ../Workshops/Birth_death_models
