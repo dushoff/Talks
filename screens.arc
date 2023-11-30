@@ -14,7 +14,7 @@ surreal numbers
 SIR_simulations:  https://github.com/dushoff/SIR_simulations
 ss_pix:  https://github.com/dushoff/ss_pix.git ../Workshops/ss_pix
 Generation_distributions:  https://github.com/dushoff/Generation_distributions.git ../Workshops/Generation_distributions
-SIR_model_family:  https://github.com/dushoff/SIR_model_family.git ../Workshops/SIR_model_family
+XX. SIR_model_family:  https://github.com/dushoff/SIR_model_family.git ../Workshops/SIR_model_family
 WA_Ebola_Outbreak:  https://github.com/Outbreak-analysis/WA_Ebola_Outbreak.git ../Workshops/WA_Ebola_Outbreak/
 trace:  https://github.com/parksw3/contact_trace.git ../Workshops/trace/
 
