@@ -16,7 +16,7 @@ ss_pix:  https://github.com/dushoff/ss_pix.git ../Workshops/ss_pix
 Generation_distributions:  https://github.com/dushoff/Generation_distributions.git ../Workshops/Generation_distributions
 XX. SIR_model_family:  https://github.com/dushoff/SIR_model_family.git ../Workshops/SIR_model_family
 WA_Ebola_Outbreak:  https://github.com/Outbreak-analysis/WA_Ebola_Outbreak.git ../Workshops/WA_Ebola_Outbreak/
-trace:  https://github.com/parksw3/contact_trace.git ../Workshops/trace/
+trace:  https://github.com/parksw3/contact_trace.git 
 
 ## Banff: look at box approaches from Jonathan and Daniel
 XX. newBoxes: https://github.com/dushoff/newBoxes
