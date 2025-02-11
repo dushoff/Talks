@@ -11,8 +11,13 @@ XX. math:  https://github.com/dushoff/math_talks.git
 surreal numbers
 
 ## Service directories; don't automatically screen (but not resting). Do they all or not??
+
+## 2025 Feb 07 (Fri) Bringing this one back to life (in research also now)
+## Trying to integrate an epidemic backward!
+
 SIR_simulations:  https://github.com/dushoff/SIR_simulations
 ss_pix:  https://github.com/dushoff/ss_pix.git ../Workshops/ss_pix
+
 Generation_distributions:  https://github.com/dushoff/Generation_distributions.git ../Workshops/Generation_distributions
 XX. SIR_model_family:  https://github.com/dushoff/SIR_model_family.git ../Workshops/SIR_model_family
 WA_Ebola_Outbreak:  https://github.com/Outbreak-analysis/WA_Ebola_Outbreak.git ../Workshops/WA_Ebola_Outbreak/
