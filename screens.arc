@@ -46,3 +46,7 @@ link_calculations: https://github.com/dushoff/link_calculations.git
 TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
 Disease_data:  https://github.com/mac-theobio/Disease_data.git ../Workshops/Disease_data
 
+## Linking option does not seem to work anymore ☹
+RTutorials: https://github.com/ICI3D/RTutorials
+
+
