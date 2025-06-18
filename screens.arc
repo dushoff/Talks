@@ -48,5 +48,5 @@ Disease_data:  https://github.com/mac-theobio/Disease_data.git ../Workshops/Dise
 
 ## Linking option does not seem to work anymore ☹
 RTutorials: https://github.com/ICI3D/RTutorials
-
-
+notebook: https://github.com/dushoff/notebook.git
+sandbox: https://github.com/dushoff/ResearchSandbox
