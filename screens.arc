@@ -1,4 +1,11 @@
 
+workshops.md
+
+pre_disease: https://github.com/dushoff/disease_model_talks
+
+## Found by github search for a desired source file
+pre_gen: https://github.com/dushoff/Generation_talks_prescreens
+
 XX. disease:  https://github.com/dushoff/disease_dynamics.git
 Older stuff and ICI3D/workshop stuff. But now building talks there during Taiwan sabbatical
 
