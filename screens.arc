@@ -17,6 +17,8 @@ XX. stats:  https://github.com/dushoff/statistics_talks.git
 XX. math:  https://github.com/dushoff/math_talks.git
 surreal numbers
 
+######################################################################
+
 ## Service directories; don't automatically screen (but not resting). Do they all or not??
 
 ## 2025 Feb 07 (Fri) Bringing this one back to life (in research also now)
@@ -48,6 +50,8 @@ coronaFrame: https://github.com/parksw3/wuhan.git
 coronaSpread: https://github.com/wzmli/corona
 
 link_calculations: https://github.com/dushoff/link_calculations.git 
+
+caseVariation: https://github.com/Aznlfr/VariationExploration
 
 ## Newly built
 TalkArchive: https://github.com/dushoff/TalkArchive.git ## NOALL (cachestuff)
