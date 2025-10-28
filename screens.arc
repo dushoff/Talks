@@ -24,7 +24,7 @@ surreal numbers
 ## 2025 Feb 07 (Fri) Bringing this one back to life (in research also now)
 ## Trying to integrate an epidemic backward!
 
-SIR_simulations:  https://github.com/dushoff/SIR_simulations
+XX. SIR_simulations:  https://github.com/dushoff/SIR_simulations
 ss_pix:  https://github.com/dushoff/ss_pix.git ../Workshops/ss_pix
 
 Generation_distributions:  https://github.com/dushoff/Generation_distributions.git ../Workshops/Generation_distributions
