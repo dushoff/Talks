@@ -63,8 +63,9 @@ my_images/%:
 	cp ../disease/$@ $@
 	git add -f $@
 
-add: LatexTemplates/top.pdf
-add: LatexTemplates/top.pdf
+add: LatexTemplates/top.pdf LatexTemplates/bar.pdf
+add: LatexTemplates/rights.png LatexTemplates/attrib.png LatexTemplates/noncom.png
+
 ######################################################################
 
 ### Makestuff

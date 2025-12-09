@@ -42,6 +42,10 @@ effects: https://github.com/mac-theobio/effects.git
 
 XX. LatexTemplates:  https://github.com/ICI3D/LatexTemplates.git ../Workshops/LatexTemplates
 
+## Emergency repo for Carl
+hetero: https://github.com/dushoff/hetero
+heteroDaidd: https://github.com/dushoff/heteroDaidd
+
 ## Filling in weird orphans 2021 Jun 16 (Wed)
 ## See Generation_talks Makefile?
 ## coronaFrame: ../research/exponential_framework
